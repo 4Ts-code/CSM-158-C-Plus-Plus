@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718962693 source:c:\users\eo840\desktop\csm-158-c-plus-plus\sorting\main.cpp
+	<iostream>
+
+1718963382 source:c:\users\eo840\desktop\csm-158-c-plus-plus\sorting\bubblesort\main.cpp
+	<iostream>
+
